@@ -7,4 +7,4 @@ How to merge conflicts in Git:
 5. git push
 
 Here is a merge-conflict scenario:
-1. 
+1. Both making change on same line in the code
