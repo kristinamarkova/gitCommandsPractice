@@ -1,0 +1,3 @@
+Fetching new changes in the code:
+
+1. git fetch (checks if there is any other new commits)
