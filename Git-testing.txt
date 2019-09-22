@@ -1,7 +1,7 @@
 Initialization:
 
 git init
-git add .
+git add .  (za da gi stage-nis)
 git commit -m "komentar"
 git remote add origin https://github.com/kristinamarkova/nameOfRepository.git
 git push -u origin master
