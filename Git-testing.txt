@@ -4,4 +4,5 @@ git init
 git add .  (za da gi stage-nis)
 git commit -m "komentar"
 git remote add origin https://github.com/kristinamarkova/nameOfRepository.git (samo prviot pat, pred da pushnis! )
-git push -u origin master
+git push -u origin master (samo prviot pat)
+git push (sekoj drug pat)
