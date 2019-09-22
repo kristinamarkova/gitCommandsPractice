@@ -7,6 +7,14 @@ How to merge conflicts in Git:
 5. git push
 
 Here is a merge-conflict scenario:
-Both making change asd asd 
-Both making change on same line in the code indeed
-
+1. Find all the files that have a conflict (CONFLICT (content): ... the files)
+2. Inside the conflicted files there are the symbols: 
+	<<<<<<<< HEAD
+	your code
+	=========
+	other's code
+	>>>>>>>> (commit ID)
+3. Fix conflict by removing one of the lines or adding them both and also removing the HEAD and other conflict symbols
+4. git add .
+5. git commit -m "Merge"
+6. git push
