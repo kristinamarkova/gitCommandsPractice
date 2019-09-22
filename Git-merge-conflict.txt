@@ -1,0 +1,10 @@
+How to merge conflicts in Git:
+
+1. After making some changes in the code
+2. git add .
+3. git commit -m "message goes here"
+4. git pull (to pull changes that happened while you were coding)
+5. git push
+
+Here is a merge-conflict scenario:
+1. 
